@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="countries.js"></script>
+    <script type="module">
+      import {
+        createApp,
+        ref,
+        computed,
+      } from "https://unpkg.com/vue@3.2.40/dist/vue.esm-browser.prod.js";
+
+      createApp({
+        setup() {
+          const countries = ref(
+            countriesData.sort((a, b) => 0.5 - Math.random())
+          );
+          const testCountries = computed(() =>
+            countries.value.slice(0, 5).map((c) => c.name)
+          );
+          const index = ref(0);
+          function onClick(i) {
+            if (countries.value[i].name === testCountries.value[index.value]) {
+              countries.value[i].matched = true;
+              index.value++;
+            }
+          }
+          return { countries, onClick, index, testCountries };
+        },
+      }).mount("#app");
+    </script>
+  </head>
+  <body id="app" class="p-4">
+    <h1 class="text-4xl font-bold mb-4">
+      Where in Europe is {{ testCountries[index] }}
+    </h1>
+    <h2 class="text-2xl font-bold">Visited:</h2>
+    <div v-for="c in countries.filter(c => c.matched).map(c => c.name)">
+      {{ c }}
+    </div>
+    <svg width="1000" height="700" class="block">
+      <path
+        v-for="c,i in countries"
+        :d="c.d"
+        :fill="c.matched ? '#ccc' : '#eee'"
+        stroke="#aaa"
+        @click="onClick(i)"
+      />
+    </svg>
+  </body>
+</html>
