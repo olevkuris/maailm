@@ -67,6 +67,7 @@ Kuidas rakendada selles projektis õpitut järgmistes arendusprojektides?
 * Järgmises projektis tuleb eelnevalt paika panna: a)millisel hetkel on sobiv anda prototüüp edasi arendajale ja b)edasise kommunikatsiooni sagedus arendaja ja disaineri vahel
 
 ## Aren
+Õppisin, et esmase plaani tegemisel on paber vajalik ja ülesanded tuleb ära jagada. Sain kasutada erinevaid lehekülgi: Flaticon, Photopea, Httrack, Unminify, Freepik, Compressjpeg, Remove.bg, Getbootstrap. Sain kujundada logo ja esilehte ning välja mõelda nime. Sain lisaks HTMLi harjutada.
 
 ## Heino
 Pidevaid muutusi tuleb ette, õppisin pilte tõõtlema ja vaatlesin kuidas kogenumad html-i tegid
