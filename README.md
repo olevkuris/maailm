@@ -69,4 +69,4 @@ Kuidas rakendada selles projektis õpitut järgmistes arendusprojektides?
 ## Aren
 
 ## Heino
-
+Pidevaid muutusi tuleb ette
