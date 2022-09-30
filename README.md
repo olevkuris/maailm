@@ -43,7 +43,8 @@ Slack, Teams
 
 -----------------------------------------------------------------------
 
-### Suunavad küsimused - hiljem kustutada!?
+### Suunavad küsimused
+
 Kuidas rakendada selles projektis õpitut järgmistes arendusprojektides? 
 
 Üks pehme oskus, mida õppisin ja edasi arendasin. 
@@ -53,6 +54,9 @@ Kuidas rakendada selles projektis õpitut järgmistes arendusprojektides?
 ## Kaur
 
 ## Janar
+* Saab rakendada php päringuid ja koostööd
+* Veidike paremini koostööd tegema ja rääkima
+* Õppisin natukene php'd
 
 ## Olev
 * Oskan nüüd php abil päringuid teha ja kuvada brauseris.
