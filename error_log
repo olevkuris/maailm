@@ -1,0 +1,27 @@
+[30-Sep-2022 08:42:55 UTC] PHP Warning:  file_get_contents(https://en.wikipedia.org/w/api.php?format=json&amp;action=query&amp;prop=extracts&amp;exintro&amp;explaintext&amp;redirects=1&amp;titles=Bosnia and Herzegovina): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad request
+ in /home/arendusn/geobattle.arendus.net/test1.php on line 5
+[30-Sep-2022 08:42:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arendusn/geobattle.arendus.net/test1.php on line 7
+[30-Sep-2022 08:42:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arendusn/geobattle.arendus.net/test1.php on line 7
+[30-Sep-2022 08:42:55 UTC] PHP Fatal error:  Uncaught TypeError: array_values(): Argument #1 ($array) must be of type array, null given in /home/arendusn/geobattle.arendus.net/test1.php:7
+Stack trace:
+#0 /home/arendusn/geobattle.arendus.net/test1.php(7): array_values()
+#1 {main}
+  thrown in /home/arendusn/geobattle.arendus.net/test1.php on line 7
+[30-Sep-2022 08:43:09 UTC] PHP Warning:  file_get_contents(https://en.wikipedia.org/w/api.php?format=json&amp;action=query&amp;prop=extracts&amp;exintro&amp;explaintext&amp;redirects=1&amp;titles=Czech Republic): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad request
+ in /home/arendusn/geobattle.arendus.net/test1.php on line 5
+[30-Sep-2022 08:43:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arendusn/geobattle.arendus.net/test1.php on line 7
+[30-Sep-2022 08:43:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arendusn/geobattle.arendus.net/test1.php on line 7
+[30-Sep-2022 08:43:09 UTC] PHP Fatal error:  Uncaught TypeError: array_values(): Argument #1 ($array) must be of type array, null given in /home/arendusn/geobattle.arendus.net/test1.php:7
+Stack trace:
+#0 /home/arendusn/geobattle.arendus.net/test1.php(7): array_values()
+#1 {main}
+  thrown in /home/arendusn/geobattle.arendus.net/test1.php on line 7
+[30-Sep-2022 08:43:17 UTC] PHP Warning:  file_get_contents(https://en.wikipedia.org/w/api.php?format=json&amp;action=query&amp;prop=extracts&amp;exintro&amp;explaintext&amp;redirects=1&amp;titles=Euroopa Iceland): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad request
+ in /home/arendusn/geobattle.arendus.net/test1.php on line 5
+[30-Sep-2022 08:43:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arendusn/geobattle.arendus.net/test1.php on line 7
+[30-Sep-2022 08:43:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arendusn/geobattle.arendus.net/test1.php on line 7
+[30-Sep-2022 08:43:17 UTC] PHP Fatal error:  Uncaught TypeError: array_values(): Argument #1 ($array) must be of type array, null given in /home/arendusn/geobattle.arendus.net/test1.php:7
+Stack trace:
+#0 /home/arendusn/geobattle.arendus.net/test1.php(7): array_values()
+#1 {main}
+  thrown in /home/arendusn/geobattle.arendus.net/test1.php on line 7

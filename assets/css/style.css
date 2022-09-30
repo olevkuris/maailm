@@ -1,0 +1,14 @@
+.mt2 {
+    margin-top:20px;
+}
+#svgDiv {
+    height:100px;
+}
+.bg-cover {
+    height:100vh;
+}
+.img-people {
+    position:absolute;
+    right:5px;
+    bottom:0px;
+}
