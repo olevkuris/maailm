@@ -2,7 +2,7 @@
 projektipäev
 
 Prototype- photos in WIKI
-## Members 
+## Liikmed
 * Kaur
 * Janar 
 * Olav
