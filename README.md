@@ -56,6 +56,8 @@ Kuidas rakendada selles projektis õpitut järgmistes arendusprojektides?
 
 ## Olev
 * Oskan nüüd php abil päringuid teha ja kuvada brauseris.
+* Õppisin rohkem suhtlema ja edasi andma oma väheseid teadmisi-oskuseid.
+* Koostasin json faili mis ka projektis kasutuse leidis.
 
 ## Olavi
 
