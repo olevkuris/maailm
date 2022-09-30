@@ -18,6 +18,14 @@ Prototype- photos in WIKI
 Slack, Teams
 
 # Ülesanded
+
+#1. Olev teeb Slacki ja githubi
+2. Heino otsib lipud
+3. Kaur arendab
+4. Kersti teeb disaini ja otsib inspiratsiooni
+5. Aren jälgib mida Kaur teeb
+6. Olavi juhib tiimi tööd ja juhendab tiimi liikmeid
+7. 
 ## 1. Päev
    Saime üksteisega tuttavaks
    Ideede brainstorming
