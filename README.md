@@ -64,9 +64,7 @@ Kuidas rakendada selles projektis õpitut järgmistes arendusprojektides?
 ## Kersti
 * Sain aru, et protüübi loomisel võib sisse tulla jooksvalt mitmeid muudatusi, st et ei tasu arendajale prototüüpi ette anda enne, kui kõik sammud on mitu korda läbi mõeldud ning samas tuleb ka arendajaga edasi olla pidevas kommunikatsioonis, et tehniline teostus ja disain oleks kooskõlas või siis teha vastavaid muudatusi.
 * Oskan .html-is pildile klikkides alert akna toimima panna.
-* Järgmises projektis tuleb eelnevalt paika panna: 
-a)millisel hetkel on sobiv anda prototüüp edasi arendajale
-b)edasise kommunikatsiooni sagedus arendaja ja disaineri vahel
+* Järgmises projektis tuleb eelnevalt paika panna: a)millisel hetkel on sobiv anda prototüüp edasi arendajale ja b)edasise kommunikatsiooni sagedus arendaja ja disaineri vahel
 
 ## Aren
 
