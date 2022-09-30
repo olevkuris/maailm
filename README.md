@@ -33,7 +33,8 @@ Slack, Teams
 
 ## 3. Päev
 
-## ***
+-----------------------------------------------------------------------
+
 ### Suunavad küsimused - hiljem kustutada!?
 Kuidas rakendada selles projektis õpitut järgmistes arendusprojektides? 
 
