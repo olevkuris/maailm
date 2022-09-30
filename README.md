@@ -54,7 +54,8 @@ Kuidas rakendada selles projektis õpitut järgmistes arendusprojektides?
 
 ## Janar
 
-## Olav
+## Olev
+* Oskan nüüd php abil päringuid teha ja kuvada brauseris.
 
 ## Olavi
 
