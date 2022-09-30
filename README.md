@@ -14,10 +14,10 @@ Prototype- photos in WIKI
 # Projekti eesmärk
   Projekti eesmärk on õpetav greograafiline kaardimäng
 
-# Communication
+# Kommunikatsioonikanalid
 Slack, Teams
 
-# Assignments
+# Ülesanded
 ## 1. Päev
    Saime üksteisega tuttavaks
    Ideede brainstorming
@@ -26,12 +26,12 @@ Slack, Teams
    Tahvli peale prototüübi tegemine
    Koodimisega alustamine
 
-## Day 2
+## 2. Päev
    Koodimine
    Disaini viimistlemine
    Piltide otsimine ja töötlemine
 
-## Day 3
+## 3. Päev
 
 ## ***
 ### Suunavad küsimused - hiljem kustutada!?
@@ -43,15 +43,11 @@ Kuidas rakendada selles projektis õpitut järgmistes arendusprojektides?
 
 ## Kaur
 
-
 ## Janar
-
 
 ## Olav
 
-
 ## Olavi
-
 
 ## Kersti
 
